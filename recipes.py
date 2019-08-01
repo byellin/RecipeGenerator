@@ -74,6 +74,5 @@ for id, recipe in data.items():
 #example = {u'instructions': u'In a small saucepan, combine the strawberry preserves, minced garlic, soy sauce and horseradish. Cook over low heat, stirring frequently until heated through.\nMelt butter in a medium skillet. Lightly sprinkle both sides of each pork chop with cayenne pepper. Fry the chops until browned on each side, then continue to cook over medium heat until no longer pink, and the juices run clear.\nServe chops with sauce poured over, and garnish with fresh strawberries.\n', u'ingredients': [u'1/4 cup strawberry preserves ADVERTISEMENT', u'1 1/2 tablespoons minced garlic ADVERTISEMENT', u'1 tablespoon soy sauce ADVERTISEMENT', u'1 tablespoon prepared horseradish ADVERTISEMENT', u'2 pork chops ADVERTISEMENT', u'1 tablespoon butter ADVERTISEMENT', u'1 pinch cayenne pepper ADVERTISEMENT', u'4 fresh strawberries for garnish ADVERTISEMENT', u'ADVERTISEMENT'], u'picture_link': u'2kBc25yaAEqpfdlAvTSW24vZgvrE6si', u'title': u"Leslie's Strawberry Breakfast Chops"}
 
 #print(example['instructions'])
-print(count)
-print(len(data.items()))
+
 print("all lookin' good so far")
